@@ -1,0 +1,4 @@
+This is the Admin.txt file for the git-demo project.
+
+- Use this file to keep notes or instructions for project administrators.
+- Update this file as needed to reflect changes in project administration.
