@@ -2,3 +2,4 @@ This is a sample user file.
 You can add user information here.
 Example:
 Name: Abhishek
+--------------------------
